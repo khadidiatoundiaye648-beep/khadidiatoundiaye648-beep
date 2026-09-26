@@ -12,7 +12,7 @@
 
 📊 Je me spécialise actuellement dans les **bases de données NoSQL** (Redis, MongoDB, Cassandra, Neo4j) et le **Big Data** pour construire des systèmes de santé numériques robustes et scalables.
 
-🎯 **Objectif** : Devenir une Data Scientist Santé complète, capable de gérer le cycle de vie entier de la donnée — de la collecte au stockage distribué, jusqu'à l'aide à la décision.
+🎯 **Objectif** : Devenir une Data Scientist Santé complète, capable de gérer le cycle de vie entier de la donnée, de la collecte au stockage distribué, jusqu'à l'aide à la décision.
 
 ---
 
